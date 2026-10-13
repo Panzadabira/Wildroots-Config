@@ -1,5 +1,10 @@
 {
     "latestVersion": "4.3",
     "forceUpdate": false,
-    "message": "Le radici si sono evolute. È disponibile una nuova versione di Wildroots."
+    "message": "Le radici si sono evolute. È disponibile una nuova versione di Wildroots.",
+    "messageIT": "Le radici si sono evolute. È disponibile una nuova versione di Wildroots.",
+    "messageEN": "The roots have evolved. A new version of Wildroots is available.",
+    "messageFR": "Les racines ont évolué. Une nouvelle version de Wildroots est disponible.",
+    "messageDE": "Die Wurzeln haben sich entwickelt. Eine neue Version von Wildroots ist verfügbar.",
+    "messageES": "Las raíces han evolucionado. Hay una nueva versión de Wildroots disponible."
 }
